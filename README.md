@@ -14,9 +14,9 @@ Now type
 
 npm start
 
-Now you can browse this app using your default browser in your local server:- localhost:3000 
+Now you can browse this app using your default browser in your local server :- localhost:3000 
 
 For testing :- Click on alan-ai button located on bottom-right corner and say :-'give me the latest news'
 
 
-############################################################################################################
+###########################################################################################################
