@@ -1,6 +1,6 @@
 #############################################################################################################
 Note:- Due to large size 'node-mudels' are unable to upload on this repo,
-       so u can download 'node-midule' from this link:-
+       You can download 'node-midule' from this link:-
        https://drive.google.com/file/d/1BdCR9kZvHztkKTAM2jnV3vdMS4GGDTvQ/view?usp=sharing
        
        
