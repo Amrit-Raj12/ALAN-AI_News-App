@@ -8,6 +8,12 @@ After downloading 'node-modules.zip' file extract it on 'ALAN-AI_News-App' folde
        
 ##RUN PROJECT 
 
+Before run my project please make sure 'Nodejs' is installed on your system
+
+For downloading Nodejs go to :-
+
+https://nodejs.org/en/download/
+
 Open cmd inside 'ALAN-AI_News-App' folder
 
 Now type
