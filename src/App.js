@@ -3,6 +3,7 @@ import alanBtn from "@alan-ai/alan-sdk-web";
 import NewsCards from './components/NewsCards/NewsCards';
 import useStyles from './styles.js';
 import wordsToNumbers from 'words-to-numbers';
+import ParticlesBg from 'particles-bg'
 
 const alanKey = 'b1fef45113079614b629e7cd4ebbca6e2e956eca572e1d8b807a3e2338fdd0dc/stage';
 
@@ -38,12 +39,15 @@ const App = ()=>{
       });
     }, []);
   return(
+    <>
     <div>
         <div className={classes.logoContainer}>
           <img src="https://artificialintelligence-news.com/wp-content/uploads/sites/9/2020/03/ai-newsv4-2-svg.png" className={classes.alanLogo} alt="alan logo" />
         </div>
         <NewsCards articles={newsArticles} activeArticle={activeArticle} />
     </div>
+    <ParticlesBg type="cobweb" bg={true} />
+    </>
   )
 }
 
