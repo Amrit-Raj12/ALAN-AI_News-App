@@ -19,6 +19,7 @@ Open cmd inside 'ALAN-AI_News-App' folder
 Now type
 
 npm install --save particles-bg
+
 wait until it will fully installed.
 
 Now type
