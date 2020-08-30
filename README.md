@@ -23,7 +23,8 @@ npm install --save particles-bg
 wait until it will fully installed.
 
 Now type
-npm start
+
+>npm start
 
 Now you can browse this app using your default browser in your local server :- localhost:3000 
 
